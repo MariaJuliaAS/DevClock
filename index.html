@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://db.onlinewebfonts.com/c/84cb021d5f9af287ffff84b61beef6dc?family=clockicons" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>DevClock</title>
+</head>
+
+<body>
+    <div class="cronometro">
+        <span id="hour">00</span>
+        <span>:</span>
+        <span id="min">00</span>
+        <span>:</span>
+        <span id="second">00</span>
+        <span>:</span>
+        <span id="miliSecond">00</span>
+    </div>
+    <div class="buttons">
+        <button onclick="start()" id="start">Iniciar</button>
+        <button onclick="pause()" id="pause">Pausa</button>
+        <button onclick="reset()" id="reset">Resetar</button>
+    </div>
+
+    <script src="assets/js/script.js"></script>
+</body>
+
+</html>
