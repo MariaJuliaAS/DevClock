@@ -1,19 +1,23 @@
+![DevClock](https://github.com/MariaJuliaAS/DevClock/assets/145461566/33d200f9-fa0c-4201-944f-2188c26f068f)
+
+
 # DevClock
-![image](https://github.com/MariaJuliaAS/DevClock/assets/145461566/53996a8b-b2ac-4998-bc87-d87a18bb410e)
 
-# Objetivo
+O **DevClock** é uma aplicação que fornece uma contagem de tempo precisa, permitindo a contagem de horas, minutos, segundos e milissegundos.
 
-O DevClock é uma aplicação que fornece uma contagem de tempo precisa, permitindo a contagem de horas, minutos, segundos e milissegundos.
-
-# Funcionalidades
+## 🔥 Funcionalidades
 
 - **Iniciar:** Inicia o cronômetro.
 - **Pausar:** Pausa a contagem do cronômetro.
 - **Resetar:** Reinicia o cronômetro para zero.
 - **Exibição em Tempo Real:** Atualiza dinamicamente a interface com as contagens de horas, minutos, segundos e milissegundos.
 
-# Tecnologias
+## 📦 Tecnologias usadas:
 
-- **HTML/CSS/JavaScript:** Construído utilizando as tecnologias padrão da web para a interface e lógica de aplicação.
-- **DOM Manipulation:** Utiliza manipulação do DOM para interagir com os elementos da página.
-- **SetInterval e ClearInterval:** Utiliza essas funções para criar e controlar o cronômetro.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## 👷 Autores
+
+* **Maria Júlia** - [GitHub](https://github.com/MariaJuliaAS) [Linkedin](https://www.linkedin.com/in/maria-j%C3%BAlia-39481a292/)
