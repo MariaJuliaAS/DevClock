@@ -33,6 +33,7 @@ body {
     cursor: pointer;
     font-weight: bold;
     font-size: 18px;
+    transition: .5s;
 }
 .buttons button:hover{
     padding: .7rem 2.5rem;
@@ -41,4 +42,23 @@ body {
 span{
     font-family: "clockicons";
     font-size: 78px;
+}
+@media screen  and (max-width: 850px){
+    .cronometro{width: 30rem;}
+    .buttons button{margin: 0 1rem;}
+}
+@media screen and (max-width: 500px){
+    .cronometro{
+        width: 20rem;
+        height: 10rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .cronometro span{font-size: 50px;}
+    .buttons button{
+        margin: 0 .5rem;
+        padding: .2rem .8rem;
+    }
+    .buttons button:hover{padding: .4rem 1rem;}
 }
